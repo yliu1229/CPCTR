@@ -48,7 +48,7 @@ Change directory `cd CPCTrans/Evaluate/`
 
 ### Contact
 
-For any questions, feel free to contact Yue Liu at yueliu1229@qq.com.
+For any questions, feel free to contact Yue Liu at liuyue1229@qq.com.
 
 
 
